@@ -4,6 +4,11 @@ AI-powered data analyst agent that lets users upload a CSV, ask questions in nat
 ---
 ## Screenshots
 
+### Architecture 
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 14, 2026, 10_22_45 AM" src="https://github.com/user-attachments/assets/b982ea75-dbd3-44f9-bf84-a8ceb4896554" />
+
+
 ### Home Page
 <img width="2555" height="1434" alt="Screenshot 2026-07-14 at 10 13 40 AM" src="https://github.com/user-attachments/assets/6838080a-c504-409c-ae0c-3a5a26164c1f" />
 
