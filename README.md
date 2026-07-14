@@ -1,4 +1,4 @@
-<img width="1284" height="719" alt="Screenshot 2026-07-14 at 10 13 15 AM" src="https://github.com/user-attachments/assets/62f4f3fd-ce9a-426b-9b95-280d99649268" /># InsightAI
+# InsightAI
 
 AI-powered data analyst agent that lets users upload a CSV, ask questions in natural language, generate SQL, create visualizations, and train machine learning models.
 
