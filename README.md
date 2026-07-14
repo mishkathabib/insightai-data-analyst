@@ -2,6 +2,28 @@
 
 AI-powered data analyst agent that lets users upload a CSV, ask questions in natural language, generate SQL, create visualizations, and train machine learning models.
 
+---
+
+## Screenshots
+
+### Home Page
+
+![Home](assets/home.png)
+
+### Dataset Upload
+
+![Dataset Upload](assets/dataset_upload.png)
+
+### Machine Learning Model Comparison
+
+![Machine Learning](assets/ml.png)
+
+### Natural Language SQL
+
+![SQL](assets/sql.png)
+
+---
+
 ## Features
 
 - CSV upload and dataset preview
@@ -20,7 +42,14 @@ User → Streamlit → LLM Router → Python/SQL/ML Tools → AI Explanation
 
 ## Tech Stack
 
-Python, Streamlit, FastAPI, OpenAI API, Pandas, scikit-learn, Matplotlib, SQLite
+- Python
+- Streamlit
+- FastAPI
+- OpenAI API
+- Pandas
+- scikit-learn
+- Matplotlib
+- SQLite
 
 ## Example Prompts
 
@@ -38,3 +67,4 @@ cd insightai-data-analyst
 python3 -m venv insightai_env
 source insightai_env/bin/activate
 pip install -r requirements.txt
+```
