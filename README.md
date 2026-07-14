@@ -2,7 +2,6 @@
 
 AI-powered data analyst agent that lets users upload a CSV, ask questions in natural language, generate SQL, create visualizations, and train machine learning models.
 ---
-## Screenshots
 
 ### Architecture 
 
