@@ -1,4 +1,4 @@
-# InsightAI
+<img width="1284" height="719" alt="Screenshot 2026-07-14 at 10 13 15 AM" src="https://github.com/user-attachments/assets/62f4f3fd-ce9a-426b-9b95-280d99649268" /># InsightAI
 
 AI-powered data analyst agent that lets users upload a CSV, ask questions in natural language, generate SQL, create visualizations, and train machine learning models.
 
@@ -8,19 +8,20 @@ AI-powered data analyst agent that lets users upload a CSV, ask questions in nat
 
 ### Home Page
 
-![Home](assets/home.png)
+<img width="2555" height="1434" alt="Screenshot 2026-07-14 at 10 13 40 AM" src="https://github.com/user-attachments/assets/6838080a-c504-409c-ae0c-3a5a26164c1f" />
 
 ### Dataset Upload
 
-![Dataset Upload](assets/dataset_upload.png)
+<img width="2558" height="1417" alt="Screenshot 2026-07-14 at 10 14 34 AM" src="https://github.com/user-attachments/assets/62fbecef-ae36-40cd-bb11-3a4b9b8c597a" />
 
 ### Machine Learning Model Comparison
 
-![Machine Learning](assets/ml.png)
+<img width="2048" height="701" alt="Screenshot 2026-07-10 at 4 13 26 PM" src="https://github.com/user-attachments/assets/7649880b-c2f2-4ef7-9524-a0a70f148ff8" />
 
 ### Natural Language SQL
 
-![SQL](assets/sql.png)
+<img width="2048" height="346" alt="Screenshot 2026-07-10 at 4 13 47 PM" src="https://github.com/user-attachments/assets/a4580ac9-a8be-4434-bd4b-e645bcd4997d" />
+
 
 ---
 
